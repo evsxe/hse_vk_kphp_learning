@@ -1,1 +1,1 @@
-# hse_vk_kphp_learning
+# HSE Highly Loaded Systems Course
